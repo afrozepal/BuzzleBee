@@ -1,0 +1,1 @@
+mongodb+srv://afrozepal:123@rt@buzz.xoco7vn.mongodb.net/?retryWrites=true&w=majority&appName=buzzpassword:
