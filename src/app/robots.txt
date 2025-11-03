@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aeropal.co.uk/sitemap.xml
+
